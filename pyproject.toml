@@ -8,7 +8,7 @@ authors = ["pshiko <pshiko.sparrow@gmail.com>"]
 python = "^3.8"
 ortools = "^7.5.7466"
 pandas = "^1.0.3"
-numpy = "^1.18.2"
+numpy = "^1.22.0"
 matplotlib = "^3.2.1"
 cython = "^0.29.16"
 
